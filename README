@@ -8,7 +8,7 @@ Cara Menggunakan
 7. Tes akses menggunakan url: ipaddressanda:8081
 
 Service		Port
-Web 	    8081
+Web 	      8081
 phpMyAdmin	8082
 
 Mysql
